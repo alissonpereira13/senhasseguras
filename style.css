@@ -91,6 +91,9 @@ body{
 }
 
 .parametro-senha__botao{
+    display: flex;
+    justify-content: center;
+}
 
 }
 .parametro-senha__texto{
